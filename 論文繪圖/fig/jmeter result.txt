@@ -1,0 +1,7 @@
+stage1 75ms 498.8/s
+stage2 98ms 199.2/s
+stage3 97ms 899.1/s
+stage4 140ms 400/s
+stage5 120ms 828.1/s
+stage6 135ms 300/s
+stage7 110ms 902/s
